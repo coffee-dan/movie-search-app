@@ -1,6 +1,9 @@
 # Movie Search App 
 Based on Scrimba Frontend Developer Career Path project of same name<br />
 
+## The Movie Database API
+[API that retrieves movie data](https://www.themoviedb.org)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
